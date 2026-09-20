@@ -3,6 +3,7 @@ resolver = "3"
 members = [
     "libs/disco-foundation",
     "libs/disco-leader",
+    "libs/disco-macros",
     "libs/disco-tester",
     "libs/disco-worker",
     "examples/multiplicator/multiplicator-foundation",

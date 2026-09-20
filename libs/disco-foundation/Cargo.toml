@@ -5,3 +5,12 @@ edition = "2024"
 
 [dependencies]
 serde = { version = "1.0.229", features = ["derive"] }
+bincode = "1.3"
+uuid = { version = "1", features = ["v7", "serde", "rng"] }
+thiserror = "2"
+disco-macros = { path = "../disco-macros" }
+
+[dev-dependencies]
+bincode = "1.3"
+serde = { version = "1.0.229", features = ["derive"] }
+thiserror = "2"
