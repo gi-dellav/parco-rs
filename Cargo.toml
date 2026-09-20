@@ -1,0 +1,12 @@
+[workspace]
+resolver = "3"
+members = [
+    "disco-foundation",
+    "disco-leader",
+    "disco-tester",
+    "disco-worker",
+    "examples/multiplicator/multiplicator-foundation",
+    "examples/multiplicator/multiplicator-leader",
+    "examples/multiplicator/multiplicator-worker",
+    "examples/multiplicator/multiplicator-tester",
+]
