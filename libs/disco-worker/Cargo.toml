@@ -1,0 +1,7 @@
+[package]
+name = "disco-worker"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+disco-foundation = { path = "../disco-foundation" }

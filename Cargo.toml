@@ -1,10 +1,10 @@
 [workspace]
 resolver = "3"
 members = [
-    "disco-foundation",
-    "disco-leader",
-    "disco-tester",
-    "disco-worker",
+    "libs/disco-foundation",
+    "libs/disco-leader",
+    "libs/disco-tester",
+    "libs/disco-worker",
     "examples/multiplicator/multiplicator-foundation",
     "examples/multiplicator/multiplicator-leader",
     "examples/multiplicator/multiplicator-worker",

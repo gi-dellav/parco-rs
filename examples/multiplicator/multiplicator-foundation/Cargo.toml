@@ -4,4 +4,4 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-parco-foundation = { path = "../../parco-foundation" }
+disco-foundation = { path = "../../../libs/disco-foundation" }

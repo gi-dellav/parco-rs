@@ -4,4 +4,4 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-parco-leader = { path = "../../parco-leader" }
+disco-leader = { path = "../../../libs/disco-leader" }
